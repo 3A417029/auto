@@ -1,0 +1,11 @@
+{
+    "name": "wei-hao-zhu/auto",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "3A417029",
+            "email": "howardzhu0709@outlook.com"
+        }
+    ],
+    "require": {}
+}
